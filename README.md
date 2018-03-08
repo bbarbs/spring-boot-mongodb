@@ -9,8 +9,7 @@ Sample spring boot project using mongo as database.
 ## Installing and Running MongoDB
 **Installation**
 * Download mongodb [here](https://www.mongodb.com/download-center/enterprise/releases)
-* For windows create folder in drive:C name **data** and inside of it create another folder name **db** in this folder mongodb will store
-the data.
+* For windows create folder in **C:\data\db** name **data** and inside of it create another folder name **db** in this folder mongodb will store the data.
 
 **Running**
 * After installation navigate to the bin folder of mongodb and run the **mongod.exe**(for windows) to start mongodb.
